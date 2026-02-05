@@ -3314,7 +3314,7 @@
 
         addGlobalHotkey() {
             document.addEventListener('keydown', (e) => {
-                if (e.ctrlKey && e.shiftKey && e.key === 'G') {
+                if (e.ctrlKey && e.shiftKey && e.key === 'Z') {
                     e.preventDefault();
                     const panel = document.getElementById('github-tools-floating');
                     if (panel) {
@@ -3442,7 +3442,7 @@
                             <li>当前目录: ${currentDirectoryPath || '根目录'}</li>
                         </ul>
                         <hr style="margin: 12px 0; border: none; border-top: 1px solid #e9ecef;">
-                        <p><strong>⌨️ 快捷键:</strong> <kbd style="background: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; padding: 2px 6px; font-family: monospace; font-size: 11px;">Ctrl+Shift+G</kbd> 显示/隐藏面板</p>
+                        <p><strong>⌨️ 快捷键:</strong> <kbd style="background: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; padding: 2px 6px; font-family: monospace; font-size: 11px;">Ctrl+Shift+Z</kbd> 显示/隐藏面板</p>
                         <p><strong>📌 版本:</strong> 5.0.9 (修复上传到子目录失败和API响应处理问题)</p>
                         <p><strong>🆕 更新说明:</strong></p>
                         <ul style="margin-left: 18px; line-height: 1.6;">
