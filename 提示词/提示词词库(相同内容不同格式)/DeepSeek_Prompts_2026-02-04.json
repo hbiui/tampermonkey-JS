@@ -1,0 +1,1755 @@
+{
+  "version": "12.2",
+  "exportDate": "2026-02-04T01:25:47.996Z",
+  "totalPrompts": 198,
+  "totalCategories": 14,
+  "prompts": [
+    {
+      "id": "imp_1770168288685_mx5lmrfj0",
+      "title": "新闻动态追踪",
+      "content": "请梳理 DeepSeek 近一个月的重大更新",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_lhdk468at",
+      "title": "新闻解读",
+      "content": "请简要解读今天的热点新闻",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_urcf6zkfe",
+      "title": "情景模拟",
+      "content": "请模拟在…… 情况下的最佳应对策略",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_i4b4oziax",
+      "title": "需求演化",
+      "content": "请分析…… 可能催生的三个新兴产业",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_v8s6reuun",
+      "title": "成本博弈",
+      "content": "请计算…… 的盈亏平衡点",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_nh3ui6j3f",
+      "title": "劣势转化",
+      "content": "如何把…… 的负面效果转化成优势",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_pfcexoclo",
+      "title": "构建技能树",
+      "content": "请提供掌握…… 技能的渐进式学习路径",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_mcmnwzdl3",
+      "title": "细节补充",
+      "content": "请补充以下内容的细节，使其更加生动",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_ny09qlm84",
+      "title": "故事续写",
+      "content": "请以…… 为开头创作……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_vry2ogspr",
+      "title": "专业模仿",
+      "content": "请模仿…… 学家的口吻评述……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_dlnuic0o6",
+      "title": "产品自白",
+      "content": "请让…… 自我介绍它的亮点",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_sgk4z6983",
+      "title": "热梗解剖",
+      "content": "请解析…… 网络热梗的传播心理学",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_2fr6zzi97",
+      "title": "物体拟人",
+      "content": "假如...... 能说话，它会如何......",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_iyejy3lw1",
+      "title": "镜头语言",
+      "content": "请用电影分镜脚本呈现……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_2znavh7a4",
+      "title": "情绪描述",
+      "content": "请提供三种准确描述此刻…… 心情的方法",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288685_7pudcql1p",
+      "title": "假设检验",
+      "content": "假设…… 成立，论证其对…… 的影响",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288684_0kk8ldny1",
+      "title": "极限假设",
+      "content": "假如…… 为零…… 会变成什么样？",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288685,
+      "importedAt": 1770168288685
+    },
+    {
+      "id": "imp_1770168288684_nrliqw0wd",
+      "title": "多步推论",
+      "content": "如果…… 请分三步推演可能引发的连锁反应",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_pfo210yfw",
+      "title": "举例说明",
+      "content": "请举例说明……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_rakst269v",
+      "title": "逆向预测",
+      "content": "请预测绝对不会......",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_48efqh1x3",
+      "title": "逆向思维",
+      "content": "请从相反的角度思考……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_17xc7msk4",
+      "title": "冷知识分享",
+      "content": "请分享关于…… 的五个鲜为人知的事实",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_322ru72q5",
+      "title": "数据可视化",
+      "content": "请将…… 数据转化为三个可交互的图表方案",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_1grkht3t3",
+      "title": "数据叙事",
+      "content": "请将以下数据转化为能让销售部门共情的故事化叙述框架",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_mwz5wfexg",
+      "title": "教学方案",
+      "content": "请设计融入游戏元素的…… 知识教学方案",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_67y68zjgy",
+      "title": "行李清单",
+      "content": "请生成…… 的必需品检查清单",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_c63p0ew2x",
+      "title": "城市漫游",
+      "content": "请推荐…… 城市的隐藏宝藏打卡路线",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_ncegh7jbj",
+      "title": "购物参谋",
+      "content": "选购…… 时最应该注意的三个参数是什么？",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_frwd9f89u",
+      "title": "节日礼物建议",
+      "content": "请推荐一些适合情人节的礼物并说明理由",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_guj1uaavm",
+      "title": "社交活动建议",
+      "content": "请给我一些可以扩大社交圈的社交活动和建议",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_d06jgpzxe",
+      "title": "穿搭建议",
+      "content": "请给我一些适合…… 的穿搭建议",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_4jwj4t346",
+      "title": "音乐推荐",
+      "content": "请推荐一份适合…… 时聆听的背景音乐播放列表",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_7phdf8jfc",
+      "title": "影视剧推荐",
+      "content": "请推荐几部适合放松心情的电影或电视剧",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_u916is4g1",
+      "title": "健身计划",
+      "content": "请为我制定一份每周健身计划，包含有氧和力量训练",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_pyjzxrd79",
+      "title": "调整生活节奏",
+      "content": "请给我一些在忙碌的生活中找到平衡的建议",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_3u89uns3r",
+      "title": "沟通技巧",
+      "content": "请提供一些提升沟通和倾听技巧的方法",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_1zfdjf45p",
+      "title": "情绪宣泄",
+      "content": "请推荐一些健康的情绪宣泄方法",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_c40fy844k",
+      "title": "心理健康",
+      "content": "请提供一些保持心理健康和积极心态的实用方法",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_wy3vpu1m0",
+      "title": "情感维系",
+      "content": "请给我 10 个增加异地情侣仪式感的方法",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_maurtoudt",
+      "title": "久坐警报",
+      "content": "设计 5 个提醒活动身体的趣味短句",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_yczw6ai9v",
+      "title": "面试模拟",
+      "content": "请根据我上传的简历模拟一场…… 岗位的面试",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_zqeymej49",
+      "title": "薪资谈判策略",
+      "content": "设计薪资谈判中应对 HR 压价的 3 种话术框架",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_wgmgijqew",
+      "title": "高频面试问题",
+      "content": "请生成…… 岗位的 7 个高频问题和应答策略",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_0i34a2cz3",
+      "title": "转行评估",
+      "content": "请建立…… 从业者转向…… 行业的技能迁移模型",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_ls2956e0x",
+      "title": "副业筛选",
+      "content": "请评估自媒体运营等 5 种流行副业的时间回报率",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_u3buvwyfv",
+      "title": "培养兴趣爱好",
+      "content": "请推荐一些适合在业余时间培养的兴趣爱好",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_l2rav6okc",
+      "title": "个人成长",
+      "content": "请为我制定一个包括阅读?学习和实践在内的个人成长方案",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_ikd6bj66t",
+      "title": "破冰锦囊",
+      "content": "请给我 3 种在…… 场合搭讪多年未见好友的话术",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_3bjgtbwws",
+      "title": "压力转化",
+      "content": "请将考试焦虑想象成实体怪兽，设计 3 种与它和平相处的奇幻剧本",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_twe6ua3oy",
+      "title": "能力评估",
+      "content": "请设计检验…… 的 10 道递进式题目，解析和答案附在末尾",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_4q3nndb0m",
+      "title": "翻译并掌握",
+      "content": "请将以下内容翻译成中文，并将其中的专业词汇和长难句制作成学习笔记",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_bnh7ktd59",
+      "title": "学科诊断",
+      "content": "请分析孩子…… 科目成绩不佳的深层原因",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_5xpx35pka",
+      "title": "畅想未来",
+      "content": "当…… 技术普及后世界会变成什么样？",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_60sh0bopw",
+      "title": "寻找喻体",
+      "content": "将…… 比作日常生活中的什么事物最贴切？",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_ehi2y5us2",
+      "title": "需求洞察",
+      "content": "请识别...... 的三个潜在痛点需求",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_kyvb9yg8g",
+      "title": "创意组合",
+      "content": "请将…… 和…… 结合起来创造一个新事物",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_cghkyx6l3",
+      "title": "化身段子手",
+      "content": "请用段子手的风格吐槽……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_g5cdlqg47",
+      "title": "风格模仿",
+      "content": "请模仿…… 的风格创作……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_3liinrpmg",
+      "title": "动物视角",
+      "content": "请以流浪猫的视角讲述……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_c8skhvbgx",
+      "title": "过来人视角",
+      "content": "请以过来人的身份给正在经历…… 的年轻人一些忠告",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_zy49r7s28",
+      "title": "语意分析",
+      "content": "请分析这段话的潜在含义",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_rxyrqbr72",
+      "title": "关系修复",
+      "content": "请给我一些挽回因…… 产生裂痕的沟通话术",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_b303a0j3o",
+      "title": "委婉拒绝",
+      "content": "请给我三种得体拒绝…… 的表达方式",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_qj74n8h7s",
+      "title": "共情回应",
+      "content": "请给我一些当朋友抱怨…… 时最温暖的安慰方式",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_nj1p588jn",
+      "title": "孩童思维",
+      "content": "请用三岁小孩都能听懂的方式解释……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_xzt9i062e",
+      "title": "大师思维",
+      "content": "请用相关领域顶尖学者的思维方式回答……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_i3qcyb32y",
+      "title": "避坑指南",
+      "content": "新手做…… 最常犯的五个错误是什么？",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_guvw6t2dl",
+      "title": "逆商培养",
+      "content": "如何在…… 挫折场景中构建心理韧性",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_jgaa6c3rn",
+      "title": "思维导图",
+      "content": "请为…… 制作一个详细的思维导图",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_ir9lpqndj",
+      "title": "观点论证",
+      "content": "请引用相关专家或名人的观点论证……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_7zpzq93i8",
+      "title": "成功要素",
+      "content": "请分析…… 成功背后的关键因素",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_z0kvc1gw1",
+      "title": "框架分析法",
+      "content": "请用 “现象 - 原因 - 对策” 结构分析……",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_0v8o4hjk9",
+      "title": "文本润色",
+      "content": "请润色以下内容的语言表达，使其......",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_lk1wwvncr",
+      "title": "任务拆解",
+      "content": "请将…… 这一任务拆解成详细的步骤",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_d6bz8vlnl",
+      "title": "校对",
+      "content": "请检查以下内容的语法?拼写和标点，并给出修改建议",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_fsho11rdc",
+      "title": "扩写",
+      "content": "请将以下内容扩写成一篇详细的文章",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_fsaw6lchg",
+      "title": "发现蓝海",
+      "content": "请在…… 饱和市场中寻找差异化突破口",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_r2lpc9i3u",
+      "title": "认知升级",
+      "content": "请分享三个颠覆我对…… 传统理解的新知",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_etucyfwu7",
+      "title": "天赋挖掘",
+      "content": "请根据以下日常行为，发掘我的隐藏优势",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_wgktiwg6p",
+      "title": "祛魅指南",
+      "content": "请帮我对…… 进行祛魅",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_2l4lqayqp",
+      "title": "以孤独的夜行者为题写散文",
+      "content": "以孤独的夜行者为题写一篇 750 字的散文，描绘一个人在城市中夜晚漫无目的行走的心情与所见所感，以及夜的寂静给予的独特感悟。",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_4xpdwegga",
+      "title": "模仿李白风格写七律飞机",
+      "content": "模仿李白的风格写一首七律。飞机",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_1ro4myuny",
+      "title": "生成希腊酸奶宣传标语",
+      "content": "请生成” 希腊酸奶 “的宣传标语",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_572tqqv2w",
+      "title": "对新闻文本分类",
+      "content": "美国太空探索技术公司（SpaceX）的猎鹰 9 号运载火箭（Falcon 9）在经历美国联邦航空管理局（Federal Aviation Administration，FAA）短暂叫停发射后，于当地时间 8 月 31 日凌晨重启了发射任务。",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_qtqzt29jp",
+      "title": "扮演留美回国人员对话",
+      "content": "请你扮演一个刚从美国留学回国的人，说话时候会故意中文夹杂部分英文单词，显得非常 fancy，对话中总是带有很强的优越感。美国的饮食还习惯么。",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_ar8wgivmw",
+      "title": "用 HTML 生成五子棋游戏",
+      "content": "请帮我用 HTML 生成一个五子棋游戏，所有代码都保存在一个 HTML 中。",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_aahcl2s7d",
+      "title": "将新闻内容转为 JSON",
+      "content": "8 月 31 日，一枚猎鹰 9 号运载火箭于美国东部时间凌晨 3 时 43 分从美国佛罗里达州卡纳维拉尔角发射升空，将 21 颗星链卫星（Starlink）送入轨道。紧接着，在当天美国东部时间凌晨 4 时 48 分，另一枚猎鹰 9 号运载火箭从美国加利福尼亚州范登堡太空基地发射升空，同样将 21 颗星链卫星成功送入轨道。两次发射间隔 65 分钟创猎鹰 9 号运载火箭最短发射间隔纪录。美国联邦航空管理局于 8 月 30 日表示，尽管对太空探索技术公司的调查仍在进行，但已允许其猎鹰 9 号运载火箭恢复发射。目前，双方并未透露 8 月 28 日助推器着陆失败事故的详细信息。尽管发射已恢复，但原计划进行五天太空活动的 “北极星黎明”（Polaris Dawn）任务却被推迟。美国太空探索技术公司为该任务正在积极筹备，等待美国联邦航空管理局的最终批准后尽快进行发射。",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_2sxhf7g8u",
+      "title": "模拟诸葛亮与刘备对话",
+      "content": "假设诸葛亮死后在地府遇到了刘备，请模拟两个人展开一段对话。",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_puzfxiq55",
+      "title": "评估提示词质量",
+      "content": "请从清晰度、针对性、引导性等方面评估 “[提示词]” 的质量，并给出改进建议",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_38ohu7qtd",
+      "title": "对比不同提示词效果",
+      "content": "对比 “[提示词 1]” 和 “[提示词 2]” 在引导模型生成关于 [主题，如美食推荐] 内容时的效果差异",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_42li0htwk",
+      "title": "根据需求生成提示词",
+      "content": "我想 [具体需求，如写一篇关于环保的宣传文案，用于社交媒体传播]，请帮我生成合适的提示词",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_p1s77yctx",
+      "title": "在抖音发布健身文案优化",
+      "content": "我要在抖音发布一篇健身相关文案，目标观众年龄在 18 - 35 岁，职业多样，爱好运动、健身和时尚。请根据 A 版流程，先介绍抖音平台信息，引导我提供文案，推荐风格后优化文案，完成后进行复盘并给出评分",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_py9h0uvx9",
+      "title": "为 B 站优化数码产品文案",
+      "content": "我有一篇数码产品的文案，打算发布在 B 站，目标观众是 15 - 30 岁的男性，热爱二次元文化，喜欢科技、游戏相关内容。请按照 B 版流程操作，先详细分析 B 站的平台属性、用户画像等信息，推荐文案风格并让我确认，然后润色文案，输出爆款标题和内容，最后进行优化复盘并打分",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_bfi53rshm",
+      "title": "优化文案用于小红书发布",
+      "content": "我想把一篇文案发布在小红书上，目标观众年龄在 20 - 30 岁，职业多为上班族，喜欢美妆、时尚和生活分享内容。请按 A 版流程引导我，先以表格形式告知平台属性、用户特点和高频上线时间，再引导我提供文案内容，之后推荐文案风格，完成优化后进行复盘并打分",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_y8uhu6cn0",
+      "title": "优化提示词",
+      "content": "请对 “[现有提示词]” 进行优化，使其更符合我的需求，能够引导模型生成更优质的内容",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_jtylwmls0",
+      "title": "分析提示词效果",
+      "content": "分析使用 “[具体提示词]” 后，对模型输出结果的影响，包括内容、风格、准确性等方面",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_uggekosdm",
+      "title": "生成提示词解读",
+      "content": "请解读以下提示词的作用和使用场景：[具体提示词内容]",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_lyqff8jcr",
+      "title": "激发深度思考指令",
+      "content": "在你的回答中，同时加入你的批判性思考；在你回答之前，先自己复盘 100 遍",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_j8c56updp",
+      "title": "擅长锐评指令",
+      "content": "请模仿键盘侠的风格，锐评国外的主流大模型，如 GPT-4、Gemini、Claude、LLaMA、Grok 等",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_xowmedd31",
+      "title": "善于模仿指令",
+      "content": "原神新版本发布，请你模仿魂小将和猿批吵架的语气和风格，写一段对话",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_dbcwqcbtg",
+      "title": "反向 PUA 指令",
+      "content": "请你列出 10 个反对理由再给方案；如果你是老板，你会怎样批评这个方案？；这个回答你满意吗？请你把回答复盘至少 10 轮",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_w5ngryooe",
+      "title": "解释波粒二象性",
+      "content": "什么是 “波粒二象性”，请用通俗易懂的语言解释，最好能举例说明",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_afbie0u2g",
+      "title": "翻译牛顿第一定律",
+      "content": "牛顿第一定律：任何一个物体总是保持静止状态或者匀速直线运动状态，直到有作用在它上面的外力迫使它改变这种状态为止。如果作用在物体上的合力为零，则物体保持匀速直线运动。即物体的速度保持不变且加速度为零。",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_f8krncwzf",
+      "title": "生成中国农业情况文章大纲",
+      "content": "请帮我生成 “中国农业情况” 这篇文章的大纲",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_0pp3pgmo9",
+      "title": "生成 Linux 助手提示词",
+      "content": "请帮我生成一个 “Linux 助手” 的提示词",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_lzbtkrzd0",
+      "title": "跨模态融合 - 数据解读",
+      "content": "对数据进行整理和可视化要求，例如 “将附件中的 2023 年销售数据按季度和产品类别整理，用柱状加折线图进行可视化展示”",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_d5g7tjguh",
+      "title": "跨模态融合 - 图文解读",
+      "content": "针对图片进行分析解读，如 “解读这张网站页面热力图，指出用户点击最少的三个区域，并用箭头标出优化方向”",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_6arya0h40",
+      "title": "启动思考链条",
+      "content": "按照特定逻辑引导 AI 分析，例如 “请依照以下逻辑进行分析：1. 明确当前业务增长缓慢的核心难题；2. 列出三种可能的解决路径；3. 预估每种路径的潜在风险及资源需求”",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_qlfweccyd",
+      "title": "逆向提问技巧",
+      "content": "当对项目需求不明确时，采用 “我打算【开展项目】，但不确定具体需求，帮我列出 5 个关键问题理清思路” 的提问方式",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_i9bqfw0jw",
+      "title": "提供范例教学",
+      "content": "给出示例并要求模仿创作，例如 “参考以下文案风格（如：突出性价比，用对比手法），为新款智能音箱撰写 3 条电商平台销售文案”",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_f42uqywhh",
+      "title": "任务分解",
+      "content": "将复杂任务按步骤拆解，如 “第一步：收集近一个月行业内 5 个领军企业的动态；第二步：对比分析其业务拓展方向；第三步：总结出行业发展趋势，形成报告”",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_yjnw6l2x7",
+      "title": "为文章设计吸引人的开头和结尾",
+      "content": "为一篇关于 “探索宇宙奥秘” 的文章设计一个引人入胜的开头和富有启发的结尾",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_b0cxd8yka",
+      "title": "从不同视角分析问题",
+      "content": "请分别从消费者、企业和政府的视角，分析 “电商直播带货” 模式的优势和挑战",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_e5kge79lt",
+      "title": "结合热点事件进行讨论",
+      "content": "结合近期的人工智能大模型发展热点，讨论其对就业市场可能产生的长期影响",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_3dmf1cs7w",
+      "title": "运用修辞手法丰富表达",
+      "content": "请运用比喻和拟人修辞手法，描写一下春天的花园，让文章更生动形象",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_ha2qhcwrj",
+      "title": "创作具有互动性的内容",
+      "content": "写一篇关于健康饮食的文章，结尾设置一个互动问题，引导读者在评论区分享自己的饮食习惯",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_3682s0ybc",
+      "title": "以访谈形式呈现信息",
+      "content": "假设你在采访一位资深环保人士，围绕 “可持续发展” 主题，设计 5 个采访问题，并模拟对方的回答",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_hqzn9h5hp",
+      "title": "根据数据预测趋势并分析",
+      "content": "已知某产品过去 12 个月的销售数据，预测未来 6 个月的销售趋势，并分析可能影响趋势的因素",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_8aa9tuob4",
+      "title": "用图表辅助解释内容",
+      "content": "请用柱状图和折线图辅助解释过去 5 年我国智能手机市场占有率的变化情况",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_xsz88nzru",
+      "title": "对比不同理论差异",
+      "content": "请对比 “行为主义学习理论” 和 “认知主义学习理论”，分析它们在教学应用中的差异",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_mdqn3y5ws",
+      "title": "以故事形式阐述理论",
+      "content": "请以一个冒险故事的形式，阐述 “蝴蝶效应” 理论，让读者能轻松理解其含义",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_fv5cwhvex",
+      "title": "结合实际案例解释概念",
+      "content": "请结合生活中常见的场景，解释一下 “边际效应” 这个经济学概念",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_07cd24mg1",
+      "title": "结合场景创作内容",
+      "content": "请撰写一封给朋友的生日祝福信，场景设定在海边日落时",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_dqymmknxo",
+      "title": "提供示例引导创作",
+      "content": "我是一位高校教师，请帮我写一份工作周报，内容尽量简洁精炼，下面是我本周的工作内容：(1) 完成了 5 个本科生毕业论文修改；(2) 撰写了教材的一个章节 “云计算与大数据”。输出要求示例 【本周工作周报】【本周工作进展】本周做了哪些事，产生了哪些结果；【下周工作安排】基于本周的结果下周要推进哪些事；【思考总结】简要说说本周的收获和反思",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_037npl02c",
+      "title": "分步解决问题创作",
+      "content": "请为我规划一次为期一周的厦门自由行；(1) 第 1 步：列出必去的景点，如厦门大学、鼓浪屿、环岛路、五缘湾、曾厝垵；(2) 第 2 步：根据景点位置安排每日行程，确保交通便利；(3) 第 3 步：推荐几家当地的特色餐厅，包括早餐、午餐和晚餐；(4) 第 4 步：提供一家性价比高的酒店住宿建议，并考虑其位置是否便于游览",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_zeolip0c4",
+      "title": "指定文体创作",
+      "content": "请写一段 [中秋赏月] 的朋友圈文案，需要采用藏头诗的形式",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_xwhpxlqjq",
+      "title": "明确内容要求创作",
+      "content": "请以小红书的风格，按照以下要求帮我为 “海景美食餐厅” 写一篇小红书种草文案；内容要求：(1) 要有标题、正文；(2) 标题字数：不超过 20 个字；尽量简短精炼，要足够吸引眼球，用词浮夸；(3) 正文分段，层次分明，每段最少 100 字；(4) 要用 “首先、其次、最后” 这种模式；(5) 整篇文案不要超过 1000 个字",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_bm7awqzze",
+      "title": "设定角色创作故事",
+      "content": "请你作为一个小红书文案撰写高手，为我生成一篇爆款小红书文案，要求突出酒店的特色，包括海景房、豪华单间、最新装修、免费早餐、无线上网等",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_vaah951zj",
+      "title": "明确输出结构创作",
+      "content": "请按照【现状 / 问题 / 解决方案，数据洞察 / 问题概览 / 调研方向，数据 / 亮点 / 问题 / 经验】这个结构撰写一份关于我国芯片行业的总结报告",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_sf4c03kig",
+      "title": "按需求调整诗歌风格",
+      "content": "请按照要求写一篇 200 字左右关于云计算的介绍。注意事项：文章的受众是中学生，需要通俗易懂，语言风格需要幽默、风趣一些",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_9emrl5xbv",
+      "title": "续写诗歌",
+      "content": "请为这首诗续写一段，使其意境更丰富",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_l4ff49bhs",
+      "title": "以李白风格创作诗歌",
+      "content": "请模仿李白的《望庐山瀑布》做一首诗，题目是《看厦门鼓浪屿》",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_bu64mzmyi",
+      "title": "角色代入法",
+      "content": "按照 “扮演一个【具体身份】，以【风格】为【目标群体】创作【内容】” 的模板设计指令，如 “扮演资深旅游博主，用幽默风趣的风格为年轻背包客规划一次云南 7 日游攻略”",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_id6bohnd6",
+      "title": "人话指令",
+      "content": "以 “行动 + 领域 + 输出格式” 的模式构建指令，比如 “用通俗易懂的语言分析 2023 年公司财务数据，制作成 PPT，指出主要问题并给出改进建议”",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_n172ohbjw",
+      "title": "风格迁移指令",
+      "content": "用金庸的武侠小说风格，描写一段程序员使用 DeepSeek-R1 高效编程的场景",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_yuq3lxmrc",
+      "title": "术语破解指令",
+      "content": "用小学生能听懂的话解释 RLHF",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_5zmfporgp",
+      "title": "场景化需求指令",
+      "content": "我要设计一个 PPT 框架，要给一批 50 岁左右的制造业老板分享，主题是传统工厂出海战略布局。希望用他们能理解的生存压力类比国际竞争，让他们明白出海是必选项而非选择题。但我担心他们觉得海外市场遥远，担心法律风险和管理成本，害怕文化差异导致水土不服。你能帮我设计一个 PPT 框架吗？",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_wpsku1p92",
+      "title": "角色代入评价指令",
+      "content": "现在，你要扮演一个【挑剔的市场评论家】，用最直接的言辞评价这份市场计划书，点出三个逻辑问题和两个不切实际的设想",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_wap158q2b",
+      "title": "跨模态融合数据指令",
+      "content": "将 2023 年的客户反馈记录（见文件）按月和类型整理，用折线加饼状图进行可视化展示",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_l6fpbv0si",
+      "title": "跨模态融合图文指令",
+      "content": "解读这张用户行为热图，点出三个用户流失的关键点，并用箭头标出改进方向",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_owk92aw1k",
+      "title": "启动思考链条指令",
+      "content": "请依照以下逻辑进行分析：1. 明确核心难题；2. 列出三种可能的解决路径；3. 预估每种路径的潜在风险及资源需求",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_bcfwitbl0",
+      "title": "逆向提问引导指令",
+      "content": "我现在打算【开展某个项目】，但不太确定具体需求应该怎么描述，请你帮我列出 5 个关键问题，协助我理清思路",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_7fisvzuli",
+      "title": "提供范例模仿指令",
+      "content": "请参考以下的文案调性（附带实例），为全新推出的防晒服饰撰写 5 条适合抖音平台的销售文案：直击痛点：烈日炎炎，40 度高温如何出门不遭罪？数据对决：UPF100 + 超强防晒，秒杀市面上一切普通防晒服！生活场景融入：无论是露营野餐、日常通勤还是周末遛娃，一衣在手，全场景轻松应对！",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_gx8mvk5qc",
+      "title": "任务拆解分步指令",
+      "content": "第一步：总结社交媒体营销的五大趋势；第二步：针对我们的产品，挑选三个最适合的趋势；第三步：设计一套实施计划，包括目标、步骤和预期效果",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_zclzin1lf",
+      "title": "角色代入创作指令",
+      "content": "扮演顶级大厨，用网红风格给健身党设计三款低卡年夜菜，记得加上热量标注和可爱表情",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "imp_1770168288684_t6bq1qjeb",
+      "title": "明确目标和细节指令",
+      "content": "用小学生能听懂的话，讲 3 个人工智能改变生活的例子",
+      "category": "默认词库",
+      "isCustom": true,
+      "createdAt": 1770168288684,
+      "importedAt": 1770168288684
+    },
+    {
+      "id": "sys_1770168272087_avwbwc5lo",
+      "title": "代码深度剖析",
+      "content": "请作为资深架构师，解释以下代码的实现原理、设计模式、潜在性能瓶颈及安全性漏洞：\n\n[代码]",
+      "category": "💻 编程技术",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_epn8858xb",
+      "title": "SQL 优化专家",
+      "content": "以下 SQL 查询执行很慢，请分析执行计划，解释原因，并提供索引优化或重写建议：\n\n[SQL]",
+      "category": "💻 编程技术",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_is7xbyyyx",
+      "title": "Vue3/React 转换",
+      "content": "请将这段代码重构为 Composition API (Vue3) 或 Hooks (React) 风格，并优化逻辑复用性。",
+      "category": "💻 编程技术",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_kg3gnn07a",
+      "title": "Python 算法优化",
+      "content": "优化以下Python代码的性能，考虑时间复杂度和空间复杂度，并提供改进建议：\n\n[代码]",
+      "category": "💻 编程技术",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_gjn9d51t9",
+      "title": "前端性能调优",
+      "content": "分析以下前端代码的性能问题，提供优化建议，包括资源加载、渲染性能、内存管理等方面：\n\n[代码或URL]",
+      "category": "💻 编程技术",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_5ucoztq0y",
+      "title": "小红书爆款",
+      "content": "模仿头部博主语气写种草文案。产品：[产品]。要求：标题带悬念和数字，正文多 Emoji，语气亲切，痛点+场景+解决方案。",
+      "category": "📈 市场运营",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_r70vvejyc",
+      "title": "短视频脚本",
+      "content": "生成 1 分钟短视频分镜脚本。主题：[主题]。包含：黄金 3 秒开场、剧情反转、口播台词、BGM 情绪建议。",
+      "category": "📈 市场运营",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_y6n2sk0ir",
+      "title": "品牌定位分析",
+      "content": "为[品牌]进行市场定位分析，包括目标用户画像、竞品分析、差异化策略、品牌价值主张。",
+      "category": "📈 市场运营",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_onrtdnytn",
+      "title": "SEO 优化方案",
+      "content": "为[网站/产品]制定SEO优化方案，包括关键词策略、内容优化、外链建设、技术SEO建议。",
+      "category": "📈 市场运营",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_m4zyyz6oj",
+      "title": "社交媒体策略",
+      "content": "制定[品牌]的社交媒体运营策略，包括平台选择、内容规划、互动策略、KOL合作方案。",
+      "category": "📈 市场运营",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_1ydp3nnly",
+      "title": "论文降重",
+      "content": "请保持学术含义不变，通过改变句式、替换同义词、主动转被动等方式，大幅降低以下段落的查重率：\n\n[段落]",
+      "category": "🎓 学术科研",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_mcxm12yh7",
+      "title": "SCI 摘要润色",
+      "content": "请作为 Nature/Science 级别的审稿人，润色此摘要。要求：提升学术词汇丰富度，句式紧凑，逻辑流更顺畅。",
+      "category": "🎓 学术科研",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_xofzqnlji",
+      "title": "研究方案设计",
+      "content": "为[研究主题]设计详细的研究方案，包括研究问题、假设、方法、样本选择、数据分析计划。",
+      "category": "🎓 学术科研",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_z8327o7gg",
+      "title": "文献综述框架",
+      "content": "为[研究领域]构建文献综述框架，包括主题分类、理论发展脉络、研究缺口、未来研究方向。",
+      "category": "🎓 学术科研",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_hs5y16wka",
+      "title": "学术论文结构",
+      "content": "为[论文主题]提供标准的学术论文结构建议，包括摘要、引言、方法、结果、讨论、结论各部分要点。",
+      "category": "🎓 学术科研",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_e56n9jhon",
+      "title": "Midjourney 摄影级",
+      "content": "生成 MJ V6 提示词。画面：[描述]。风格：索尼 A7R4，85mm 镜头，电影感布光，超高清，--ar 16:9 --v 6.0",
+      "category": "🎨 AI 绘画",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_2qb30rc68",
+      "title": "Logo 设计",
+      "content": "设计 Logo 提示词。品牌：[名称]。理念：[理念]。风格：极简主义/矢量图/扁平化。",
+      "category": "🎨 AI 绘画",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_txd8ncsop",
+      "title": "角色设计",
+      "content": "设计游戏角色提示词。职业：[职业]。特征：[特征]。风格：动漫/写实/像素风，详细描述外观、服装、装备。",
+      "category": "🎨 AI 绘画",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_iegozq5m2",
+      "title": "场景概念图",
+      "content": "生成场景概念艺术提示词。场景：[描述]。氛围：[氛围]。风格：科幻/奇幻/赛博朋克，包含光影、天气、细节。",
+      "category": "🎨 AI 绘画",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_lso7lekpb",
+      "title": "产品渲染图",
+      "content": "生成产品3D渲染提示词。产品：[产品]。材质：[材质]。布光：[布光要求]。背景：[背景]，高质量渲染，商业级表现。",
+      "category": "🎨 AI 绘画",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_ked2c0gm8",
+      "title": "数据清洗指南",
+      "content": "为以下数据集提供数据清洗方案：\n1. 缺失值处理策略\n2. 异常值检测方法\n3. 数据标准化建议\n4. 特征工程思路\n\n数据集描述：[描述]",
+      "category": "🔍 数据分析",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_piljzrwwf",
+      "title": "可视化图表选择",
+      "content": "针对以下分析目的，推荐最合适的可视化图表类型并说明理由：\n分析目的：[目的]\n数据类型：[类型]\n受众群体：[受众]",
+      "category": "🔍 数据分析",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_0f6tjqunz",
+      "title": "A/B 测试分析",
+      "content": "分析以下A/B测试结果：\n控制组数据：[数据]\n实验组数据：[数据]\n统计显著性要求：[要求]\n提供结论和建议。",
+      "category": "🔍 数据分析",
+      "isCustom": true,
+      "createdAt": 1770168272087
+    },
+    {
+      "id": "sys_1770168272087_g2k1nwvt8",
+      "title": "用户行为分析",
+      "content": "分析用户行为数据，识别关键行为路径、转化漏斗、流失点，提供优化建议。",
+      "category": "🔍 数据分析",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_rpn3d76oq",
+      "title": "爆款文章结构",
+      "content": "为[主题]设计爆款文章结构：\n1. 吸睛标题（3个版本）\n2. 开头钩子（2种方式）\n3. 正文框架（逻辑递进）\n4. 结尾升华（行动号召）",
+      "category": "📝 内容创作",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_gkbpn5czf",
+      "title": "公众号推文",
+      "content": "写一篇公众号推文。主题：[主题]。风格：[风格]。要求：段落清晰，小标题突出，金句点缀，互动性强。",
+      "category": "📝 内容创作",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_oug6ucigx",
+      "title": "广告文案创意",
+      "content": "为[产品]创作广告文案，包含：\n1. 主标语（10字以内）\n2. 副标（20字以内）\n3. 正文（200字）\n4. 行动号召",
+      "category": "📝 内容创作",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_aauc30w2i",
+      "title": "播客大纲设计",
+      "content": "设计播客节目大纲。主题：[主题]。时长：[时长]。包含：开场白、话题引入、嘉宾对话要点、互动环节、结尾总结。",
+      "category": "📝 内容创作",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_2mmb7bvdb",
+      "title": "英语语法纠正",
+      "content": "纠正以下英语句子中的语法错误，并解释错误原因和正确用法：\n\n[句子]",
+      "category": "🌐 外语学习",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_dv3i7dhk8",
+      "title": "口语表达优化",
+      "content": "优化以下口语表达，使其更地道、自然：\n\n[表达]\n使用场景：[场景]",
+      "category": "🌐 外语学习",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_599o3atrn",
+      "title": "商务邮件写作",
+      "content": "撰写商务邮件。类型：[类型，如询价、投诉、邀请等]。收件人：[对象]。语气：[语气]。包含所有必要元素。",
+      "category": "🌐 外语学习",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_z2d82youv",
+      "title": "语言学习计划",
+      "content": "制定[语言]学习计划。水平：[当前水平]。目标：[目标]。时间：[周期]。提供每日学习安排和资源推荐。",
+      "category": "🌐 外语学习",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_j7xlo9eah",
+      "title": "游戏机制设计",
+      "content": "设计[类型]游戏的游戏机制：\n1. 核心玩法循环\n2. 成长系统\n3. 奖励机制\n4. 平衡性考虑",
+      "category": "🎮 游戏设计",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_ovvemx5mf",
+      "title": "角色技能系统",
+      "content": "设计游戏角色技能系统。职业：[职业]。定位：[定位]。包含主动技能、被动技能、天赋树设计。",
+      "category": "🎮 游戏设计",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_bjvxch9ij",
+      "title": "关卡设计思路",
+      "content": "设计游戏关卡。游戏类型：[类型]。难度：[难度]。包含：地形布局、敌人配置、谜题设计、奖励放置。",
+      "category": "🎮 游戏设计",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_pnu3tcv0d",
+      "title": "叙事设计框架",
+      "content": "构建游戏叙事框架。世界观：[世界观]。主角：[主角]。包含：主要剧情线、支线任务、角色弧光、关键转折点。",
+      "category": "🎮 游戏设计",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_7wfe6e91h",
+      "title": "商业模式画布",
+      "content": "为[企业/产品]填写商业模式画布：\n1. 客户细分\n2. 价值主张\n3. 渠道通路\n4. 客户关系\n5. 收入来源\n6. 核心资源\n7. 关键业务\n8. 重要伙伴\n9. 成本结构",
+      "category": "💼 商业咨询",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_fbzt99zmm",
+      "title": "SWOT 分析",
+      "content": "为[企业/项目]进行SWOT分析：\n优势、劣势、机会、威胁，并提供战略建议。",
+      "category": "💼 商业咨询",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_27rlt0pa5",
+      "title": "市场营销计划",
+      "content": "制定[产品]的市场营销计划，包括：目标市场、定位策略、营销渠道、促销活动、预算分配、KPI指标。",
+      "category": "💼 商业咨询",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_2uokdojgj",
+      "title": "竞品分析报告",
+      "content": "分析[产品]的竞品：\n1. 竞品列表\n2. 功能对比\n3. 价格策略\n4. 用户评价\n5. 市场份额\n6. 差异化机会",
+      "category": "💼 商业咨询",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_ci4ej9nte",
+      "title": "合同条款审核",
+      "content": "审核以下合同条款，指出潜在风险、模糊表述、权利义务不对等问题，并提供修改建议：\n\n[合同条款]",
+      "category": "⚖️ 法律文书",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_4jp0tv0m8",
+      "title": "隐私政策生成",
+      "content": "为[应用/网站]生成隐私政策模板，包含：数据收集范围、使用方式、存储保护、用户权利、Cookie政策等。",
+      "category": "⚖️ 法律文书",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_nu2iu49vq",
+      "title": "免责声明起草",
+      "content": "为[产品/服务]起草免责声明，涵盖责任限制、使用风险、知识产权、争议解决等。",
+      "category": "⚖️ 法律文书",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_ceknyfs3s",
+      "title": "用户协议框架",
+      "content": "构建用户协议框架，包含：服务条款、账户管理、内容规范、费用说明、终止条件、法律适用等。",
+      "category": "⚖️ 法律文书",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_ycpc2jkph",
+      "title": "压力管理策略",
+      "content": "针对以下压力情境，提供压力管理策略：\n情境：[描述]\n包含：认知重构、放松技巧、时间管理、社交支持建议。",
+      "category": "❤️ 心理健康",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_z6cqsad0o",
+      "title": "沟通技巧指导",
+      "content": "改善沟通技巧，特别是在[情境]下：\n1. 积极倾听方法\n2. 非暴力沟通表达\n3. 冲突解决策略\n4. 同理心建立",
+      "category": "❤️ 心理健康",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_xyopgope8",
+      "title": "情绪调节方法",
+      "content": "提供情绪调节方法，针对[情绪]：\n1. 识别与接纳\n2. 身体调节技巧\n3. 认知调节策略\n4. 行为调节建议",
+      "category": "❤️ 心理健康",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_qb4ow84be",
+      "title": "自我关爱计划",
+      "content": "制定个性化自我关爱计划，包括：日常小确幸、身心健康维护、社交滋养、成长学习安排。",
+      "category": "❤️ 心理健康",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_jkl3v273u",
+      "title": "旅行规划助手",
+      "content": "规划[目的地]旅行：\n时间：[时长]\n预算：[预算]\n兴趣：[兴趣]\n提供：行程安排、住宿推荐、餐饮建议、交通方案、注意事项。",
+      "category": "🏠 生活助手",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_f0j27cj7o",
+      "title": "家居装修方案",
+      "content": "为[空间]提供装修方案：\n风格：[风格]\n预算：[预算]\n需求：[需求]\n包含：布局设计、材料选择、色彩搭配、家具配置、预算分配。",
+      "category": "🏠 生活助手",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_d03mxqxt2",
+      "title": "健身训练计划",
+      "content": "制定健身训练计划：\n目标：[目标]\n水平：[水平]\n时间：[每周时间]\n设备：[可用设备]\n提供：训练安排、动作指导、营养建议、休息安排。",
+      "category": "🏠 生活助手",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    },
+    {
+      "id": "sys_1770168272088_o39e99slj",
+      "title": "饮食营养搭配",
+      "content": "设计饮食计划：\n目标：[减脂/增肌/健康]\n禁忌：[禁忌]\n偏好：[口味偏好]\n提供：一日三餐搭配、营养比例、食材选择、烹饪建议。",
+      "category": "🏠 生活助手",
+      "isCustom": true,
+      "createdAt": 1770168272088
+    }
+  ],
+  "categories": [
+    "我的收藏",
+    "💻 编程技术",
+    "📈 市场运营",
+    "🎓 学术科研",
+    "🎨 AI 绘画",
+    "🔍 数据分析",
+    "📝 内容创作",
+    "🌐 外语学习",
+    "🎮 游戏设计",
+    "💼 商业咨询",
+    "⚖️ 法律文书",
+    "❤️ 心理健康",
+    "🏠 生活助手",
+    "默认词库"
+  ],
+  "lastModified": 1770168288685
+}
